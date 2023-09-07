@@ -8,3 +8,5 @@ function validation(name) {
 
 	return "Username is correct";
 }
+
+validation("rashid");
